@@ -1,0 +1,3 @@
+[submodule "flask_app/classifier"]
+	path = flask_app/classifier
+	url = https://github.com/clothing-08-04-2019/classifier
